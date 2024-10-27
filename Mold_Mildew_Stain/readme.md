@@ -15,7 +15,7 @@
 
 ### Equipment Needed
 
-- **32 oz spray bottle**
+- **32 oz spray bottle** (with exterior markings for measuring liquid)
 - **Safety gear:** Gloves, Goggles, Mask
 
 ### Instructions
@@ -30,12 +30,12 @@
 
 3. **Measure and Mix**
 
-   - **Step 1:** Pour **24 oz** of water directly into the 32 oz spray bottle using a measuring cup.
-   - **Step 2:** Slowly add **3 oz** of sodium hypochlorite to the water in the spray bottle.
+   - **Step 1:** Use the markings on the spray bottle to pour **24 oz** of water into the bottle.
+   - **Step 2:** Slowly add **3 oz** of sodium hypochlorite to the water using the spray bottle's measuring marks.
    - **Step 3:** Carefully add **1 oz** of sodium hydroxide to the spray bottle.
-   - **Step 4:** Add **2 oz** of lauramine oxide to the mixture in the spray bottle.
+   - **Step 4:** Add **2 oz** of lauramine oxide to the mixture using the spray bottle's measurements.
    - **Step 5:** Mix in **1 oz** of potassium hydroxide.
-   - **Step 6:** Finally, add **1 oz** of myristamine oxide.
+   - **Step 6:** Finally, add **1 oz** of myristamine oxide to the mixture.
 
 4. **Mix the Solution**
 
