@@ -2,21 +2,21 @@
 
 ## Ingredients
 
-| Ingredient Name                             | CAS Number | Functional Purpose |
-| ------------------------------------------- | ---------- | ------------------ |
-| Water                                       | 7732-18-5  | Solvent            |
-| C9-11 Pareth-3 (ethoxylated C9-11 alcohols) | 68439-46-3 | Emulsifier         |
-| Dipropylene Glycol Butyl Ether              | 29911-28-2 | Solubilizer        |
-| Dipropylene Glycol Propyl Ether             | 29911-27-1 | Solubilizer        |
-| Lauramine Oxide                             | 1643-20-5  | Emulsifier         |
-| Tetrasodium EDTA                            | 64-02-8    | Builder            |
-| Myristamine Oxide                           | 3332-27-2  | Emulsifier         |
-| Benzyl Benzoate                             | 120-51-4   | Fragrance          |
-| Sodium Hydroxide                            | 1310-73-2  | Caustic            |
-| Diethyl Phthalate                           | 84-66-2    | Fragrance          |
-| Direct Blue 86                              | 1330-38-7  | Colorant           |
-| Trisodium NTA                               | 5064-31-3  | Chelator           |
-| Geraniol                                    | 106-24-1   | Active Ingredient  |
+| Ingredient Name                             | CAS Number | Functional Purpose | Mixing Amount |
+| ------------------------------------------- | ---------- | ------------------ | ------------- |
+| Water                                       | 7732-18-5  | Solvent            | 20 oz         |
+| C9-11 Pareth-3 (ethoxylated C9-11 alcohols) | 68439-46-3 | Emulsifier         | 1 oz          |
+| Dipropylene Glycol Butyl Ether              | 29911-28-2 | Solubilizer        | 1 oz          |
+| Dipropylene Glycol Propyl Ether             | 29911-27-1 | Solubilizer        | 1 oz          |
+| Lauramine Oxide                             | 1643-20-5  | Emulsifier         | 1 oz          |
+| Tetrasodium EDTA                            | 64-02-8    | Builder            | 1 oz          |
+| Myristamine Oxide                           | 3332-27-2  | Emulsifier         | 0.5 oz        |
+| Benzyl Benzoate                             | 120-51-4   | Fragrance          | 0.5 oz        |
+| Sodium Hydroxide                            | 1310-73-2  | Caustic            | 2 oz          |
+| Diethyl Phthalate                           | 84-66-2    | Fragrance          | 0.5 oz        |
+| Direct Blue 86                              | 1330-38-7  | Colorant           | 0.1 oz        |
+| Trisodium NTA                               | 5064-31-3  | Chelator           | 1 oz          |
+| Geraniol                                    | 106-24-1   | Active Ingredient  | 0.5 oz        |
 
 ## Formulation Guide
 

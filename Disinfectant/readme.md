@@ -2,21 +2,21 @@
 
 ## Ingredients
 
-| Ingredient Name                                     | CAS Number | Functional Purpose |
-| --------------------------------------------------- | ---------- | ------------------ |
-| Water                                               | 7732-18-5  | Solvent            |
-| Tetrasodium EDTA                                    | 64-02-8    | Builder            |
-| Undeceth-7 (ethoxylated undecanol)                  | 34398-01-1 | Cleaning Agent     |
-| Alkyl C12-18 Dimethyl Ethylbenzyl Ammonium Chloride | 85409-23-0 | Active Ingredient  |
-| Benzalkonium Chloride                               | 68391-01-5 | Emulsifier         |
-| Sodium Hydroxide                                    | 1310-73-2  | Caustic            |
-| Trisodium NTA                                       | 5064-31-3  | Chelator           |
-| d-Limonene                                          | 5989-27-5  | Fragrance          |
-| Ethanol                                             | 64-17-5    | Solubilizer        |
-| Glycol                                              | 107-21-1   | Solubilizer        |
-| Acetaldehyde                                        | 75-07-0    | Fragrance          |
-| Ethylene Oxide                                      | 75-21-8    | Fragrance          |
-| Geraniol                                            | 106-24-1   | Active Ingredient  |
+| Ingredient Name                                     | CAS Number | Functional Purpose | Mixing Amount |
+| --------------------------------------------------- | ---------- | ------------------ | ------------- |
+| Water                                               | 7732-18-5  | Solvent            | 20 oz         |
+| Tetrasodium EDTA                                    | 64-02-8    | Builder            | 1 oz          |
+| Undeceth-7 (ethoxylated undecanol)                  | 34398-01-1 | Cleaning Agent     | 1 oz          |
+| Alkyl C12-18 Dimethyl Ethylbenzyl Ammonium Chloride | 85409-23-0 | Active Ingredient  | 1 oz          |
+| Benzalkonium Chloride                               | 68391-01-5 | Emulsifier         | 1 oz          |
+| Sodium Hydroxide                                    | 1310-73-2  | Caustic            | 2 oz          |
+| Trisodium NTA                                       | 5064-31-3  | Chelator           | 1 oz          |
+| d-Limonene                                          | 5989-27-5  | Fragrance          | 0.5 oz        |
+| Ethanol                                             | 64-17-5    | Solubilizer        | 1 oz          |
+| Glycol                                              | 107-21-1   | Solubilizer        | 1 oz          |
+| Acetaldehyde                                        | 75-07-0    | Fragrance          | 0.5 oz        |
+| Ethylene Oxide                                      | 75-21-8    | Fragrance          | 0.5 oz        |
+| Geraniol                                            | 106-24-1   | Active Ingredient  | 0.5 oz        |
 
 ## Formulation Guide
 
