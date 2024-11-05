@@ -8,13 +8,14 @@
 | C9-11 Pareth-3 (ethoxylated C9-11 alcohols) | 68439-46-3 | Emulsifier         | 2 oz          |
 | Butoxyethanol                               | 111-76-2   | Solubilizer        | 1 oz          |
 | Sodium Hydroxide                            | 1310-73-2  | Caustic            | 1 oz          |
-| Sodium C10-16 Alkylbenzenesulfonate         | 68081-81-2 | Emulsifier         | 1 oz          |
 | Tetrasodium EDTA                            | 64-02-8    | Builder            | 1 oz          |
-| Sodium C14-16 Olefin Sulfonate              | 68439-57-6 | Emulsifier         | 1 oz          |
 | Sodium Chloride                             | 7647-14-5  | Builder            | 1 oz          |
-| Acid Red 14                                 | 3567-69-9  | Colorant           | 0.1 oz        |
 | Trisodium NTA                               | 5064-31-3  | Chelator           | 0.5 oz        |
+| ---                                         | ---        | ---                | ---           |
 | Acetaldehyde                                | 75-07-0    | Fragrance          | 0.1 oz        |
+| Acid Red 14                                 | 3567-69-9  | Colorant           | 0.1 oz        |
+| Sodium C10-16 Alkylbenzenesulfonate         | 68081-81-2 | Emulsifier         | 1 oz          |
+| Sodium C14-16 Olefin Sulfonate              | 68439-57-6 | Emulsifier         | 1 oz          |
 
 ## Formulation Guide
 
