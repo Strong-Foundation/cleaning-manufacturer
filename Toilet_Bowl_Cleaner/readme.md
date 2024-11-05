@@ -7,13 +7,14 @@
 | Water                                       | 7732-18-5  | Solvent            | 20 oz         |
 | Hydrochloric Acid                           | 7647-01-0  | Acid               | 3 oz          |
 | (Z)-Octadec-9-enylamine, ethoxylated        | 26635-93-8 | Thickener          | 1 oz          |
-| Lauramine Oxide                             | 1643-20-5  | Emulsifier         | 2 oz          |
 | Sulfamic Acid                               | 5329-14-6  | Acid               | 1 oz          |
 | C9-11 Pareth-3 (ethoxylated C9-11 alcohols) | 68439-46-3 | Emulsifier         | 1 oz          |
 | Benzalkonium Chloride                       | 68391-01-5 | Active Ingredient  | 1 oz          |
-| Methyl Salicylate                           | 119-36-8   | Fragrance          | 0.5 oz        |
 | Ethanol                                     | 64-17-5    | Solubilizer        | 1 oz          |
+| ---                                         | ---        | ---                | ---           |
+| Lauramine Oxide                             | 1643-20-5  | Emulsifier         | 2 oz          |
 | Acid Blue 9                                 | 3844-45-9  | Colorant           | 0.1 oz        |
+| Methyl Salicylate                           | 119-36-8   | Fragrance          | 0.5 oz        |
 
 ## Formulation Guide
 
