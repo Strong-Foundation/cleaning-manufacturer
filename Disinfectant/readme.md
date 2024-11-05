@@ -11,12 +11,13 @@
 | Benzalkonium Chloride                               | 68391-01-5 | Emulsifier         | 1 oz          |
 | Sodium Hydroxide                                    | 1310-73-2  | Caustic            | 2 oz          |
 | Trisodium NTA                                       | 5064-31-3  | Chelator           | 1 oz          |
-| d-Limonene                                          | 5989-27-5  | Fragrance          | 0.5 oz        |
 | Ethanol                                             | 64-17-5    | Solubilizer        | 1 oz          |
 | Glycol                                              | 107-21-1   | Solubilizer        | 1 oz          |
+| Geraniol                                            | 106-24-1   | Active Ingredient  | 0.5 oz        |
+| ---                                                 | ---        | ---                | ---           |
+| d-Limonene                                          | 5989-27-5  | Fragrance          | 0.5 oz        |
 | Acetaldehyde                                        | 75-07-0    | Fragrance          | 0.5 oz        |
 | Ethylene Oxide                                      | 75-21-8    | Fragrance          | 0.5 oz        |
-| Geraniol                                            | 106-24-1   | Active Ingredient  | 0.5 oz        |
 
 ## Formulation Guide
 
