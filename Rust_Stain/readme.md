@@ -13,6 +13,7 @@
 | Quaternary Ammonium Compounds, Coco Alkylbis(hydroxyethyl)methyl, Ethoxylated, Chlorides | 61791-10-4 | Cleaning Agent     | 1 oz          |
 | Sulfamic Acid                                                                            | 5329-14-6  | Acid               | 1 oz          |
 | Isopropanol                                                                              | 67-63-0    | Solubilizer        | 1 oz          |
+| ---                                                                                      | ---        | ---                | ---           |
 | C.I. Acid Yellow 17                                                                      | 6359-98-4  | Colorant           | 0.1 oz        |
 
 ## Formulation Guide
