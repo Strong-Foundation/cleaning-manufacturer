@@ -14,8 +14,9 @@
 | Cyclamen Aldehyde                           | 103-95-7   | Odor Counteractant | 0.1 oz        |
 | p-menth-1-en-8-ol                           | 98-55-5    | Solubilizer        | 0.5 oz        |
 | Ethylbenzene                                | 100-41-4   | Solubilizer        | 0.5 oz        |
-| Green 3                                     | 2353-45-9  | Colorant           | 0.1 oz        |
 | Terpinolene                                 | 586-62-9   | Solubilizer        | 0.5 oz        |
+| ---                                         | ---        | ---                | ---           |
+| Green 3                                     | 2353-45-9  | Colorant           | 0.1 oz        |
 | Beta-Myrcene (from natural food source)     | 123-35-3   | Fragrance          | 0.2 oz        |
 
 ## Formulation Guide
