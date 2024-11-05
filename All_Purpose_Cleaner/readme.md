@@ -12,7 +12,7 @@
 | Sodium Hydroxide                            | 1310-73-2  | Caustic            | 2 oz          |
 | Trisodium NTA                               | 5064-31-3  | Chelator           | 1 oz          |
 | Geraniol                                    | 106-24-1   | Active Ingredient  | 0.5 oz        |
-| ---                                         | ---        | ---                |
+| ---                                         | ---        | ---                | ---           |
 | Lauramine Oxide                             | 1643-20-5  | Emulsifier         | 1 oz          |
 | Myristamine Oxide                           | 3332-27-2  | Emulsifier         | 0.5 oz        |
 | Benzyl Benzoate                             | 120-51-4   | Fragrance          | 0.5 oz        |
