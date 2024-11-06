@@ -12,9 +12,7 @@
 | Solvent Orange 60            | 6925-69-5  | Colorant           | 0.5 oz        |
 | Solvent Red 18               | 6483-64-3  | Colorant           | 0.5 oz        |
 
----
-
-### Formulation Guide
+## Formulation Guide
 
 #### Equipment Needed
 
