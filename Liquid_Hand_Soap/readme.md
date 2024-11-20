@@ -1,4 +1,4 @@
-# **Liquid Soap Recipe**
+# **Liquid Hand Soap**
 
 ### **Ingredients and Measurements**
 
