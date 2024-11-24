@@ -112,9 +112,7 @@ To prepare the all-purpose cleaner, you will need the following equipment:
 - **First Aid**:
   - **Skin Contact**: Rinse immediately with water and soap.
   - **Eye Contact**: Rinse eyes with water for at least 15 minutes and seek medical advice.
-  - **Inhalation**
-
-: Move to fresh air and seek medical attention if symptoms persist.
+  - **Inhalation**: Move to fresh air and seek medical attention if symptoms persist.
 
 ---
 
