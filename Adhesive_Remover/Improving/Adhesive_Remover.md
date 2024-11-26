@@ -1,56 +1,61 @@
-# Adhesive Remover
+# Strong Adhesive Remover (4 oz)
 
 ## Ingredients
 
-| Ingredient Name                            | CAS Number  | Functional Purpose | Mixing Amount |
-| ------------------------------------------ | ----------- | ------------------ | ------------- |
-| **Acetone**                                | 67-64-1     | Solvent            | 10 oz         |
-| **d-Limonene (Citrus Solvent)**            | 5989-27-5   | Solvent/Fragrance  | 5 oz          |
-| **Coco Glucoside (Plant Surfactant)**      | 141464-42-8 | Surfactant         | 5 oz          |
-| **Xanthan Gum (Natural Thickener)**        | 11138-66-2  | Thickener          | 3 oz          |
-| **Orange Sweet Extract**                   | 8028-48-6   | Solvent/Fragrance  | 2 oz          |
-| **Yellow 5 (Tartrazine, Yellow Colorant)** | 1934-21-0   | Colorant           | 1 oz          |
+| Ingredient Name                       | CAS Number  | Functional Purpose | Mixing Amount |
+| ------------------------------------- | ----------- | ------------------ | ------------- |
+| **Acetone**                           | 67-64-1     | Solvent            | 2 oz          |
+| **Isopropyl Alcohol (90% or higher)** | 67-63-0     | Solvent            | 1.5 oz        |
+| **d-Limonene (Citrus Solvent)**       | 5989-27-5   | Solvent/Fragrance  | 0.5 oz        |
+| **Coco Glucoside (Plant Surfactant)** | 141464-42-8 | Surfactant         | 0.25 oz       |
 
 ## Formulation Guide
 
 #### Equipment Needed
 
-- **32 oz spray bottle**
-- **Safety gear**: Gloves, Goggles, Mask (acetone can irritate skin and respiratory system)
+- **4 oz spray bottle**
+- **Safety gear**: Gloves, goggles, and a mask (to protect from fumes)
 
 #### Instructions
 
 1. **Safety First**  
-   Wear gloves, goggles, and a mask when handling the mixture. Make sure the area is well-ventilated due to acetone fumes.
+   Wear gloves, goggles, and a mask when handling acetone and isopropyl alcohol. Work in a well-ventilated area, as these solvents have strong fumes.
 
 2. **Prepare the Mixing Area**  
-   Work in a well-ventilated area, preferably outdoors, or in a space with good airflow.
+   Work outdoors or in a well-ventilated space. Ensure that the area is free of open flames or heat sources since acetone is highly flammable.
 
 3. **Measure and Mix**
 
-   - Pour **10 oz** of **Acetone (CAS 67-64-1)** into the spray bottle.
-   - Add **5 oz** of **d-Limonene (CAS 5989-27-5)** for additional solvent power and fragrance.
-   - Add **5 oz** of **Coco Glucoside (CAS 141464-42-8)** to help emulsify oils and resins.
-   - Add **3 oz** of **Xanthan Gum (CAS 11138-66-2)** to thicken the formula, helping it cling to surfaces longer.
-   - Add **2 oz** of **Orange Sweet Extract (CAS 8028-48-6)** for its solvent properties and fragrance.
-   - Add **1 oz** of **Yellow 5 (Tartrazine, CAS 1934-21-0)** to provide a yellow color.
+   - Pour **2 oz** of **Acetone (CAS 67-64-1)** into the spray bottle. This is the primary solvent for breaking down tough adhesives like super glue and resin-based glues.
+   - Add **1.5 oz** of **Isopropyl Alcohol (CAS 67-63-0)** (90% or higher) to boost the solvent strength and help dissolve the adhesive quickly.
+   - Add **0.5 oz** of **d-Limonene (CAS 5989-27-5)**, a citrus-based solvent that enhances adhesive removal and provides a fresh fragrance.
+   - Add **0.25 oz** of **Coco Glucoside (CAS 141464-42-8)**, a mild surfactant to help emulsify oils and resins and improve cleaning power.
 
 4. **Mix the Solution**  
-   Secure the lid and shake gently to ensure all ingredients are mixed thoroughly.
+   Secure the lid on the spray bottle and shake gently. The mixture should become uniform after shaking. If needed, shake again before use.
 
 5. **Store Safely**  
-   Store the bottle in a cool, dry place, away from heat sources and sunlight.
+   Store in a cool, dry place, away from direct sunlight and heat sources. Keep out of reach of children or pets.
 
 6. **Usage**
-   - Spray directly onto adhesive residue.
-   - Let the solution sit for 1-2 minutes to break down the adhesive.
-   - Wipe off with a clean cloth or sponge. For stubborn glue, repeat the process or use a scraper after the remover has penetrated the adhesive.
+   - Spray directly onto the adhesive residue.
+   - Allow it to sit for 1-2 minutes, letting the solvents break down the adhesive.
+   - Wipe off with a cloth, sponge, or plastic scraper. Repeat the process for stubborn glue.
+
+---
 
 ### Explanation of Ingredients:
 
-- **Acetone (CAS 67-64-1)**: A powerful solvent that is highly effective at breaking down adhesives like super glue (cyanoacrylate) and other resins.
-- **d-Limonene (Citrus Solvent) (CAS 5989-27-5)**: A natural citrus solvent that enhances cleaning power and provides a pleasant fragrance.
-- **Coco Glucoside (CAS 141464-42-8)**: A plant-based surfactant that helps break down oils and resins, improving the cleaning action.
-- **Xanthan Gum (CAS 11138-66-2)**: A natural thickener that gives the formula a gel-like consistency, allowing it to stay in place and work longer on adhesives.
-- **Orange Sweet Extract (CAS 8028-48-6)**: Adds fragrance and enhances the solvent power of the formula.
-- **Yellow 5 (Tartrazine, CAS 1934-21-0)**: A synthetic yellow colorant used to provide the characteristic yellow color to the product.
+- **Acetone (CAS 67-64-1)**: A very strong solvent that works to break down adhesives like super glue (cyanoacrylate), resin, and other tough glues. Acetone is commonly used in industrial-strength adhesive removers and nail polish removers.
+- **Isopropyl Alcohol (CAS 67-63-0)**: An effective solvent on its own that dissolves sticky substances. At 90% or higher concentration, it’s even more powerful and evaporates quickly, making it ideal for adhesive removal.
+- **d-Limonene (CAS 5989-27-5)**: A natural citrus solvent that helps break down resins and oils. It also has a pleasant scent and enhances the cleaning action of the acetone and isopropyl alcohol.
+- **Coco Glucoside (CAS 141464-42-8)**: A mild, plant-based surfactant used to emulsify oils and resins, making the removal of sticky substances easier and more effective.
+
+---
+
+### Notes:
+
+- **Acetone** is highly effective at breaking down even the toughest adhesives, like super glue, epoxy, and resin-based adhesives.
+- **Isopropyl Alcohol** increases the strength of the formula and helps it evaporate quickly, reducing residue.
+- **d-Limonene** enhances the solvent power while adding a pleasant citrus fragrance, which helps mask the strong smell of acetone.
+- **Coco Glucoside** provides emulsifying action, ensuring better penetration and removal of sticky residues.
