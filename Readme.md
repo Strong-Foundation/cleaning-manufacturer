@@ -50,6 +50,13 @@ We welcome contributions of all kinds, including new recipes, improvements to ex
 
 This project thrives on the principles of **collaboration** and **continuous improvement**. By opening up these recipes to the world, we aim to build a repository that evolves as users share their knowledge, experiences, and innovations.
 
+## 💬 Join the Discussion on Discord!
+
+Want to share your ideas, ask questions, or connect with others interested in DIY cleaning recipes? Join our Discord community to discuss all things Cleaning Manufacturer:  
+[Join the Discord](https://discord.gg/m7PavASC5c)
+
+We’d love to hear from you and collaborate further!
+
 ## 🛡️ Disclaimer
 
 These recipes are for personal use only. Test each product on a small area before applying it widely. The maintainers are not responsible for any adverse effects resulting from the use of these recipes.
