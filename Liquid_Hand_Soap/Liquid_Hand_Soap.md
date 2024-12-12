@@ -2,19 +2,19 @@
 
 ### **Ingredients and Measurements**
 
-| **Ingredient**              | **CAS Number** | **Amount (oz)** | **Purpose**                        |
-| --------------------------- | -------------- | --------------- | ---------------------------------- |
-| Water                       | 7732-18-5      | 21 oz           | Solvent                            |
-| Sodium Laureth Sulfate      | 9004-82-4      | 4 oz            | Primary Surfactant                 |
-| Cocamidopropyl Betaine      | 61789-40-0     | 3 oz            | Secondary Surfactant/Foaming Agent |
-| Sodium Chloride             | 7647-14-5      | 1 oz            | Thickening Agent                   |
-| Glycol Distearate           | 627-83-8       | 1 oz            | Pearlizing Agent                   |
-| Fragrance                   | Varies         | 1 oz            | Scent                              |
-| Citric Acid                 | 77-92-9        | 0.5 oz          | pH Adjuster                        |
-| Methylchloroisothiazolinone | 26172-55-4     | 0.03 oz         | Preservative                       |
-| Methylisothiazolinone       | 2682-20-4      | 0.03 oz         | Preservative                       |
-| Yellow 5                    | 1934-21-0      | A pinch         | Coloring Agent                     |
-| Red 40                      | 25956-17-6     | A pinch         | Coloring Agent                     |
+| **Ingredient**              | **CAS Number** | **Amount (oz)** | **Purpose**                        | **Supplier** |
+| --------------------------- | -------------- | --------------- | ---------------------------------- | ------------ |
+| Water                       | 7732-18-5      | 21 oz           | Solvent                            |              |
+| Sodium Laureth Sulfate      | 9004-82-4      | 4 oz            | Primary Surfactant                 |              |
+| Cocamidopropyl Betaine      | 61789-40-0     | 3 oz            | Secondary Surfactant/Foaming Agent |              |
+| Sodium Chloride             | 7647-14-5      | 1 oz            | Thickening Agent                   |              |
+| Glycol Distearate           | 627-83-8       | 1 oz            | Pearlizing Agent                   |              |
+| Fragrance                   | Varies         | 1 oz            | Scent                              |              |
+| Citric Acid                 | 77-92-9        | 0.5 oz          | pH Adjuster                        |              |
+| Methylchloroisothiazolinone | 26172-55-4     | 0.03 oz         | Preservative                       |              |
+| Methylisothiazolinone       | 2682-20-4      | 0.03 oz         | Preservative                       |              |
+| Yellow 5                    | 1934-21-0      | A pinch         | Coloring Agent                     |              |
+| Red 40                      | 25956-17-6     | A pinch         | Coloring Agent                     |              |
 
 ---
 

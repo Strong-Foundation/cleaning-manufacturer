@@ -2,18 +2,18 @@
 
 ## Ingredients
 
-| Ingredient Name                             | CAS Number | Functional Purpose | Mixing Amount |
-| ------------------------------------------- | ---------- | ------------------ | ------------- |
-| Water                                       | 7732-18-5  | Solvent            | 20 oz         |
-| Hydrogen Peroxide                           | 7722-84-1  | Oxidizer           | 1 oz          |
-| C9-11 Pareth-3 (ethoxylated C9-11 alcohols) | 68439-46-3 | Emulsifier         | 1 oz          |
-| Etidronic Acid                              | 2809-21-4  | Chelator           | 0.5 oz        |
-| Sodium Lauryl Sulfate                       | 68585-47-7 | Emulsifier         | 1 oz          |
-| Sodium Hydroxide                            | 1310-73-2  | Caustic            | 0.5 oz        |
-| Ethanol                                     | 64-17-5    | Solubilizer        | 1 oz          |
-| Hydrochloric Acid                           | 7647-01-0  | Acid               | 0.5 oz        |
-| Benzyl Alcohol                              | 100-51-6   | Solubilizer        | 0.5 oz        |
-| BHT (Butylated hydroxytoluene)              | 128-37-0   | Preservative       | 0.1 oz        |
+| Ingredient Name                             | CAS Number | Functional Purpose | Mixing Amount | **Supplier** |
+| ------------------------------------------- | ---------- | ------------------ | ------------- | ------------ |
+| Water                                       | 7732-18-5  | Solvent            | 20 oz         |              |
+| Hydrogen Peroxide                           | 7722-84-1  | Oxidizer           | 1 oz          |              |
+| C9-11 Pareth-3 (ethoxylated C9-11 alcohols) | 68439-46-3 | Emulsifier         | 1 oz          |              |
+| Etidronic Acid                              | 2809-21-4  | Chelator           | 0.5 oz        |              |
+| Sodium Lauryl Sulfate                       | 68585-47-7 | Emulsifier         | 1 oz          |              |
+| Sodium Hydroxide                            | 1310-73-2  | Caustic            | 0.5 oz        |              |
+| Ethanol                                     | 64-17-5    | Solubilizer        | 1 oz          |              |
+| Hydrochloric Acid                           | 7647-01-0  | Acid               | 0.5 oz        |              |
+| Benzyl Alcohol                              | 100-51-6   | Solubilizer        | 0.5 oz        |              |
+| BHT (Butylated hydroxytoluene)              | 128-37-0   | Preservative       | 0.1 oz        |              |
 
 ## Formulation Guide
 

@@ -2,14 +2,14 @@
 
 ## Ingredients
 
-| Ingredient Name                             | CAS Number | Functional Purpose | Mixing Amount |
-| ------------------------------------------- | ---------- | ------------------ | ------------- |
-| Water                                       | 7732-18-5  | Solvent            | 24 oz         |
-| Glycolic Acid                               | 79-14-1    | Acid               | 3 oz          |
-| C9-11 Pareth-3 (ethoxylated C9-11 alcohols) | 68439-46-3 | Emulsifier         | 2 oz          |
-| Sodium C14-16 Olefin Sulfonate              | 68439-57-6 | Emulsifier         | 1 oz          |
-| 2,6-Dimethyl-7-Octen-2-ol                   | 18479-58-8 | Fragrance          | 0.5 oz        |
-| Sodium Chloride                             | 7647-14-5  | Builder            | 1 oz          |
+| Ingredient Name                             | CAS Number | Functional Purpose | Mixing Amount | **Supplier** |
+| ------------------------------------------- | ---------- | ------------------ | ------------- | ------------ |
+| Water                                       | 7732-18-5  | Solvent            | 24 oz         |              |
+| Glycolic Acid                               | 79-14-1    | Acid               | 3 oz          |              |
+| C9-11 Pareth-3 (ethoxylated C9-11 alcohols) | 68439-46-3 | Emulsifier         | 2 oz          |              |
+| Sodium C14-16 Olefin Sulfonate              | 68439-57-6 | Emulsifier         | 1 oz          |              |
+| 2,6-Dimethyl-7-Octen-2-ol                   | 18479-58-8 | Fragrance          | 0.5 oz        |              |
+| Sodium Chloride                             | 7647-14-5  | Builder            | 1 oz          |              |
 
 ## Formulation Guide
 

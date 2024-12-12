@@ -2,21 +2,21 @@
 
 ## Ingredients
 
-| Ingredient Name                             | CAS Number | Functional Purpose | Mixing Amount |
-| ------------------------------------------- | ---------- | ------------------ | ------------- |
-| Water                                       | 7732-18-5  | Solvent            | 25 oz         |
-| C9-11 Pareth-3 (ethoxylated C9-11 alcohols) | 68439-46-3 | Emulsifier         | 3 oz          |
-| Dipropylene Glycol Propyl Ether             | 29911-27-1 | Solubilizer        | 2 oz          |
-| Sodium Xylene Sulfonate                     | 1300-72-7  | Stabilizer         | 1 oz          |
-| Sodium Sesquicarbonate                      | 533-96-0   | Builder            | 1 oz          |
-| Citric Acid                                 | 77-92-9    | Acid               | 0.5 oz        |
-| Sodium Sulfate                              | 7757-82-6  | Flow Agent         | 0.5 oz        |
-| Cyclamen Aldehyde                           | 103-95-7   | Odor Counteractant | 0.1 oz        |
-| p-menth-1-en-8-ol                           | 98-55-5    | Solubilizer        | 0.5 oz        |
-| Ethylbenzene                                | 100-41-4   | Solubilizer        | 0.5 oz        |
-| Green 3                                     | 2353-45-9  | Colorant           | 0.1 oz        |
-| Terpinolene                                 | 586-62-9   | Solubilizer        | 0.5 oz        |
-| Beta-Myrcene (from natural food source)     | 123-35-3   | Fragrance          | 0.2 oz        |
+| Ingredient Name                             | CAS Number | Functional Purpose | Mixing Amount | **Supplier** |
+| ------------------------------------------- | ---------- | ------------------ | ------------- | ------------ |
+| Water                                       | 7732-18-5  | Solvent            | 25 oz         |              |
+| C9-11 Pareth-3 (ethoxylated C9-11 alcohols) | 68439-46-3 | Emulsifier         | 3 oz          |              |
+| Dipropylene Glycol Propyl Ether             | 29911-27-1 | Solubilizer        | 2 oz          |              |
+| Sodium Xylene Sulfonate                     | 1300-72-7  | Stabilizer         | 1 oz          |              |
+| Sodium Sesquicarbonate                      | 533-96-0   | Builder            | 1 oz          |              |
+| Citric Acid                                 | 77-92-9    | Acid               | 0.5 oz        |              |
+| Sodium Sulfate                              | 7757-82-6  | Flow Agent         | 0.5 oz        |              |
+| Cyclamen Aldehyde                           | 103-95-7   | Odor Counteractant | 0.1 oz        |              |
+| p-menth-1-en-8-ol                           | 98-55-5    | Solubilizer        | 0.5 oz        |              |
+| Ethylbenzene                                | 100-41-4   | Solubilizer        | 0.5 oz        |              |
+| Green 3                                     | 2353-45-9  | Colorant           | 0.1 oz        |              |
+| Terpinolene                                 | 586-62-9   | Solubilizer        | 0.5 oz        |              |
+| Beta-Myrcene (from natural food source)     | 123-35-3   | Fragrance          | 0.2 oz        |              |
 
 ## Formulation Guide
 

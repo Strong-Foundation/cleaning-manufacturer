@@ -2,17 +2,17 @@
 
 ## Ingredients
 
-| Ingredient Name       | CAS Number | Functional Purpose | Mixing Amount |
-| --------------------- | ---------- | ------------------ | ------------- |
-| Water                 | 7732-18-5  | Solvent            | 20 oz         |
-| Butoxyethanol         | 111-76-2   | Solubilizer        | 2 oz          |
-| Ethanol               | 64-17-5    | Solubilizer        | 1 oz          |
-| Ammonium Hydroxide    | 1336-21-6  | pH Adjuster        | 0.5 oz        |
-| Isopropanol           | 67-63-0    | Solubilizer        | 1 oz          |
-| Sodium Lauryl Sulfate | 68585-47-7 | Emulsifier         | 1 oz          |
-| tert-Butanol          | 75-65-0    | Solubilizer        | 0.5 oz        |
-| Diethyl Phthalate     | 84-66-2    | Fragrance          | 0.5 oz        |
-| Geraniol              | 106-24-1   | Active Ingredient  | 0.5 oz        |
+| Ingredient Name       | CAS Number | Functional Purpose | Mixing Amount | **Supplier** |
+| --------------------- | ---------- | ------------------ | ------------- | ------------ |
+| Water                 | 7732-18-5  | Solvent            | 20 oz         |              |
+| Butoxyethanol         | 111-76-2   | Solubilizer        | 2 oz          |              |
+| Ethanol               | 64-17-5    | Solubilizer        | 1 oz          |              |
+| Ammonium Hydroxide    | 1336-21-6  | pH Adjuster        | 0.5 oz        |              |
+| Isopropanol           | 67-63-0    | Solubilizer        | 1 oz          |              |
+| Sodium Lauryl Sulfate | 68585-47-7 | Emulsifier         | 1 oz          |              |
+| tert-Butanol          | 75-65-0    | Solubilizer        | 0.5 oz        |              |
+| Diethyl Phthalate     | 84-66-2    | Fragrance          | 0.5 oz        |              |
+| Geraniol              | 106-24-1   | Active Ingredient  | 0.5 oz        |              |
 
 ## Formulation Guide
 

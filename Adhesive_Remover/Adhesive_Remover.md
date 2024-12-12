@@ -8,15 +8,15 @@ This guide outlines the formulation process for an **effective adhesive remover*
 
 Below is a breakdown of the ingredients used in this formulation, along with their respective CAS numbers, functions, and details on their properties and sourcing.
 
-| **Ingredient**                   | **CAS Number** | **Function**         | **Weight/Volume** | **Additional Details**                                                                   |
-| -------------------------------- | -------------- | -------------------- | ----------------- | ---------------------------------------------------------------------------------------- |
-| **Petroleum Distillates**        | 64742-47-8     | Primary Solvent      | 15 oz (425 g)     | Solvent with high solvency power. Derived from crude oil, it helps break down adhesives. |
-| **Aliphatic Alcohol Ethoxylate** | 9004-77-7      | Solvent & Surfactant | 5 oz (142 g)      | A mild surfactant and solvent. Helps improve penetration and wetting properties.         |
-| **d-Limonene**                   | 5989-27-5      | Solvent & Fragrance  | 5 oz (142 g)      | Naturally derived from citrus peel. Biodegradable and effective for adhesive removal.    |
-| **Acrylic Polymer Resin**        | 25035-69-2     | Thickener            | 3 oz (85 g)       | Provides a gel-like consistency for better adhesion to vertical surfaces.                |
-| **Orange Sweet Extract**         | 8028-48-6      | Solvent & Fragrance  | 2 oz (57 g)       | Adds fragrance and serves as a natural solvent. Biodegradable and non-toxic.             |
-| **Solvent Orange 60**            | 6925-69-5      | Colorant             | 0.5 oz (14 g)     | Provides a bright color for easy identification of the remover.                          |
-| **Solvent Red 18**               | 6483-64-3      | Colorant             | 0.5 oz (14 g)     | Adds a red tint to the remover to improve product recognition.                           |
+| **Ingredient**                   | **CAS Number** | **Function**         | **Weight/Volume** | **Additional Details**                                                                   | **Supplier** |
+| -------------------------------- | -------------- | -------------------- | ----------------- | ---------------------------------------------------------------------------------------- | ------------ |
+| **Petroleum Distillates**        | 64742-47-8     | Primary Solvent      | 15 oz (425 g)     | Solvent with high solvency power. Derived from crude oil, it helps break down adhesives. |              |
+| **Aliphatic Alcohol Ethoxylate** | 9004-77-7      | Solvent & Surfactant | 5 oz (142 g)      | A mild surfactant and solvent. Helps improve penetration and wetting properties.         |              |
+| **d-Limonene**                   | 5989-27-5      | Solvent & Fragrance  | 5 oz (142 g)      | Naturally derived from citrus peel. Biodegradable and effective for adhesive removal.    |              |
+| **Acrylic Polymer Resin**        | 25035-69-2     | Thickener            | 3 oz (85 g)       | Provides a gel-like consistency for better adhesion to vertical surfaces.                |              |
+| **Orange Sweet Extract**         | 8028-48-6      | Solvent & Fragrance  | 2 oz (57 g)       | Adds fragrance and serves as a natural solvent. Biodegradable and non-toxic.             |              |
+| **Solvent Orange 60**            | 6925-69-5      | Colorant             | 0.5 oz (14 g)     | Provides a bright color for easy identification of the remover.                          |              |
+| **Solvent Red 18**               | 6483-64-3      | Colorant             | 0.5 oz (14 g)     | Adds a red tint to the remover to improve product recognition.                           |              |
 
 ---
 

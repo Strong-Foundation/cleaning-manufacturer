@@ -2,18 +2,18 @@
 
 ## Ingredients
 
-| Ingredient Name                                                                          | CAS Number | Functional Purpose | Mixing Amount |
-| ---------------------------------------------------------------------------------------- | ---------- | ------------------ | ------------- |
-| Water                                                                                    | 7732-18-5  | Solvent            | 20 oz         |
-| Urea Hydrochloride                                                                       | 506-89-8   | Acid               | 2 oz          |
-| Glycolic Acid                                                                            | 79-14-1    | Acid               | 1 oz          |
-| C9-11 Pareth-3 (ethoxylated C9-11 alcohols)                                              | 68439-46-3 | Emulsifier         | 2 oz          |
-| Citric Acid                                                                              | 77-92-9    | Acid               | 1 oz          |
-| Hydrochloric Acid                                                                        | 7647-01-0  | Acid               | 0.5 oz        |
-| Quaternary Ammonium Compounds, Coco Alkylbis(hydroxyethyl)methyl, Ethoxylated, Chlorides | 61791-10-4 | Cleaning Agent     | 1 oz          |
-| Sulfamic Acid                                                                            | 5329-14-6  | Acid               | 1 oz          |
-| Isopropanol                                                                              | 67-63-0    | Solubilizer        | 1 oz          |
-| C.I. Acid Yellow 17                                                                      | 6359-98-4  | Colorant           | 0.1 oz        |
+| Ingredient Name                                                                          | CAS Number | Functional Purpose | Mixing Amount | **Supplier** |
+| ---------------------------------------------------------------------------------------- | ---------- | ------------------ | ------------- | ------------ |
+| Water                                                                                    | 7732-18-5  | Solvent            | 20 oz         |              |
+| Urea Hydrochloride                                                                       | 506-89-8   | Acid               | 2 oz          |              |
+| Glycolic Acid                                                                            | 79-14-1    | Acid               | 1 oz          |              |
+| C9-11 Pareth-3 (ethoxylated C9-11 alcohols)                                              | 68439-46-3 | Emulsifier         | 2 oz          |              |
+| Citric Acid                                                                              | 77-92-9    | Acid               | 1 oz          |              |
+| Hydrochloric Acid                                                                        | 7647-01-0  | Acid               | 0.5 oz        |              |
+| Quaternary Ammonium Compounds, Coco Alkylbis(hydroxyethyl)methyl, Ethoxylated, Chlorides | 61791-10-4 | Cleaning Agent     | 1 oz          |              |
+| Sulfamic Acid                                                                            | 5329-14-6  | Acid               | 1 oz          |              |
+| Isopropanol                                                                              | 67-63-0    | Solubilizer        | 1 oz          |              |
+| C.I. Acid Yellow 17                                                                      | 6359-98-4  | Colorant           | 0.1 oz        |              |
 
 ## Formulation Guide
 

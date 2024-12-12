@@ -2,20 +2,20 @@
 
 ## Ingredients
 
-| Ingredient Name                                                                          | CAS Number | Functional Purpose | Mixing Amount |
-| ---------------------------------------------------------------------------------------- | ---------- | ------------------ | ------------- |
-| Water                                                                                    | 7732-18-5  | Solvent            | 20 oz         |
-| Urea Hydrochloride                                                                       | 506-89-8   | Acid               | 2 oz          |
-| Hydrochloric Acid                                                                        | 7647-01-0  | Acid               | 1 oz          |
-| C9-11 Pareth-3 (ethoxylated C9-11 alcohols)                                              | 68439-46-3 | Emulsifier         | 2 oz          |
-| Butoxyethanol                                                                            | 111-76-2   | Solubilizer        | 1 oz          |
-| Quaternary Ammonium Compounds, Coco Alkylbis(hydroxyethyl)methyl, Ethoxylated, Chlorides | 61791-10-4 | Cleaning Agent     | 1 oz          |
-| Methyl Salicylate                                                                        | 119-36-8   | Fragrance          | 0.5 oz        |
-| Isopropanol                                                                              | 67-63-0    | Solubilizer        | 1 oz          |
-| Eugenol                                                                                  | 97-53-0    | Fragrance          | 0.2 oz        |
-| Diethyl Phthalate                                                                        | 84-66-2    | Fragrance          | 0.2 oz        |
-| Acetophenone                                                                             | 98-86-2    | Fragrance          | 0.2 oz        |
-| Isoeugenol                                                                               | 97-54-1    | Fragrance          | 0.1 oz        |
+| Ingredient Name                                                                          | CAS Number | Functional Purpose | Mixing Amount | **Supplier** |
+| ---------------------------------------------------------------------------------------- | ---------- | ------------------ | ------------- | ------------ |
+| Water                                                                                    | 7732-18-5  | Solvent            | 20 oz         |              |
+| Urea Hydrochloride                                                                       | 506-89-8   | Acid               | 2 oz          |              |
+| Hydrochloric Acid                                                                        | 7647-01-0  | Acid               | 1 oz          |              |
+| C9-11 Pareth-3 (ethoxylated C9-11 alcohols)                                              | 68439-46-3 | Emulsifier         | 2 oz          |              |
+| Butoxyethanol                                                                            | 111-76-2   | Solubilizer        | 1 oz          |              |
+| Quaternary Ammonium Compounds, Coco Alkylbis(hydroxyethyl)methyl, Ethoxylated, Chlorides | 61791-10-4 | Cleaning Agent     | 1 oz          |              |
+| Methyl Salicylate                                                                        | 119-36-8   | Fragrance          | 0.5 oz        |              |
+| Isopropanol                                                                              | 67-63-0    | Solubilizer        | 1 oz          |              |
+| Eugenol                                                                                  | 97-53-0    | Fragrance          | 0.2 oz        |              |
+| Diethyl Phthalate                                                                        | 84-66-2    | Fragrance          | 0.2 oz        |              |
+| Acetophenone                                                                             | 98-86-2    | Fragrance          | 0.2 oz        |              |
+| Isoeugenol                                                                               | 97-54-1    | Fragrance          | 0.1 oz        |              |
 
 ## Formulation Guide
 

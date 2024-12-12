@@ -2,23 +2,23 @@
 
 ## Ingredients
 
-| Ingredient Name              | CAS Number  | Functional Purpose | Mixing Amount |
-| ---------------------------- | ----------- | ------------------ | ------------- |
-| Water                        | 7732-18-5   | Solvent            | 20 oz         |
-| Butoxydiglycol               | 112-34-5    | Solubilizer        | 1 oz          |
-| Decyl Glucoside              | 68515-73-1  | Cleaning Agent     | 1 oz          |
-| Tetrasodium Iminodisuccinate | 144538-83-0 | Chelator           | 0.5 oz        |
-| Sodium Lauryl Sulfate        | 68585-47-7  | Emulsifier         | 1 oz          |
-| Sodium Lignosulfonate        | 8061-51-6   | Builder            | 1 oz          |
-| Lauryl Glucoside             | 110615-47-9 | Emulsifier         | 1 oz          |
-| d-Limonene                   | 5989-27-5   | Fragrance          | 0.5 oz        |
-| p-menth-1-en-8-ol            | 98-55-5     | Solubilizer        | 0.5 oz        |
-| Magnesium                    | 10377-60-3  | Preservative       | 0.5 oz        |
-| Geraniol                     | 106-24-1    | Active Ingredient  | 0.5 oz        |
-| Methylchloroisothiazolinone  | 26172-55-4  | Preservative       | 0.1 oz        |
-| Methylisothiazolinone        | 2682-20-4   | Preservative       | 0.1 oz        |
-| Terpinolene                  | 586-62-9    | Solubilizer        | 0.5 oz        |
-| Cupric Nitrate               | 3251-23-8   | Preservative       | 0.1 oz        |
+| Ingredient Name              | CAS Number  | Functional Purpose | Mixing Amount | **Supplier** |
+| ---------------------------- | ----------- | ------------------ | ------------- | ------------ |
+| Water                        | 7732-18-5   | Solvent            | 20 oz         |              |
+| Butoxydiglycol               | 112-34-5    | Solubilizer        | 1 oz          |              |
+| Decyl Glucoside              | 68515-73-1  | Cleaning Agent     | 1 oz          |              |
+| Tetrasodium Iminodisuccinate | 144538-83-0 | Chelator           | 0.5 oz        |              |
+| Sodium Lauryl Sulfate        | 68585-47-7  | Emulsifier         | 1 oz          |              |
+| Sodium Lignosulfonate        | 8061-51-6   | Builder            | 1 oz          |              |
+| Lauryl Glucoside             | 110615-47-9 | Emulsifier         | 1 oz          |              |
+| d-Limonene                   | 5989-27-5   | Fragrance          | 0.5 oz        |              |
+| p-menth-1-en-8-ol            | 98-55-5     | Solubilizer        | 0.5 oz        |              |
+| Magnesium                    | 10377-60-3  | Preservative       | 0.5 oz        |              |
+| Geraniol                     | 106-24-1    | Active Ingredient  | 0.5 oz        |              |
+| Methylchloroisothiazolinone  | 26172-55-4  | Preservative       | 0.1 oz        |              |
+| Methylisothiazolinone        | 2682-20-4   | Preservative       | 0.1 oz        |              |
+| Terpinolene                  | 586-62-9    | Solubilizer        | 0.5 oz        |              |
+| Cupric Nitrate               | 3251-23-8   | Preservative       | 0.1 oz        |              |
 
 ## Formulation Guide
 

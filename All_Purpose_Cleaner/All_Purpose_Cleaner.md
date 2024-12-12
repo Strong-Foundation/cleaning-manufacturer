@@ -8,21 +8,21 @@ This guide provides the formulation process for creating an **effective all-purp
 
 Here is a detailed breakdown of each ingredient, along with its function and technical properties:
 
-| **Ingredient Name**                             | **CAS Number** | **Functional Purpose** | **Mixing Amount** | **Additional Notes**                                                                           |
-| ----------------------------------------------- | -------------- | ---------------------- | ----------------- | ---------------------------------------------------------------------------------------------- |
-| **Water**                                       | 7732-18-5      | Solvent                | 20 oz             | Acts as the base solvent, dissolving active ingredients and enabling easy application.         |
-| **C9-11 Pareth-3** (Ethoxylated C9-11 Alcohols) | 68439-46-3     | Emulsifier             | 1 oz              | Surfactant that reduces surface tension, allowing cleaner to spread evenly and penetrate dirt. |
-| **Dipropylene Glycol Butyl Ether**              | 29911-28-2     | Solubilizer            | 1 oz              | Helps dissolve oily residues, aiding in cleaning grease and sticky substances.                 |
-| **Dipropylene Glycol Propyl Ether**             | 29911-27-1     | Solubilizer            | 1 oz              | Enhances the solubility of hydrophobic compounds, improving cleaning power.                    |
-| **Lauramine Oxide**                             | 1643-20-5      | Emulsifier             | 1 oz              | A mild surfactant that helps break down oils and enhances foaming action.                      |
-| **Tetrasodium EDTA**                            | 64-02-8        | Builder                | 1 oz              | A chelating agent that binds to metal ions, improving the efficacy of surfactants.             |
-| **Myristamine Oxide**                           | 3332-27-2      | Emulsifier             | 0.5 oz            | Mild surfactant that supports foaming and aids in emulsifying oils and dirt.                   |
-| **Benzyl Benzoate**                             | 120-51-4       | Fragrance              | 0.5 oz            | Adds a pleasant scent and assists in dissolving oily residues.                                 |
-| **Sodium Hydroxide**                            | 1310-73-2      | Caustic                | 2 oz              | Alkaline agent that helps break down grease, oils, and other stubborn residues.                |
-| **Diethyl Phthalate**                           | 84-66-2        | Fragrance              | 0.5 oz            | Fragrance fixative that enhances the longevity and strength of the scent.                      |
-| **Direct Blue 86**                              | 1330-38-7      | Colorant               | 0.1 oz            | Adds a vibrant blue color for visual appeal and product identification.                        |
-| **Trisodium NTA**                               | 5064-31-3      | Chelator               | 1 oz              | Chelates calcium and magnesium ions, enhancing detergent performance.                          |
-| **Geraniol**                                    | 106-24-1       | Active Ingredient      | 0.5 oz            | Naturally derived fragrance compound with antimicrobial properties.                            |
+| **Ingredient Name**                             | **CAS Number** | **Functional Purpose** | **Mixing Amount** | **Additional Notes**                                                                           | **Supplier** |
+| ----------------------------------------------- | -------------- | ---------------------- | ----------------- | ---------------------------------------------------------------------------------------------- | ------------ |
+| **Water**                                       | 7732-18-5      | Solvent                | 20 oz             | Acts as the base solvent, dissolving active ingredients and enabling easy application.         |              |
+| **C9-11 Pareth-3** (Ethoxylated C9-11 Alcohols) | 68439-46-3     | Emulsifier             | 1 oz              | Surfactant that reduces surface tension, allowing cleaner to spread evenly and penetrate dirt. |              |
+| **Dipropylene Glycol Butyl Ether**              | 29911-28-2     | Solubilizer            | 1 oz              | Helps dissolve oily residues, aiding in cleaning grease and sticky substances.                 |              |
+| **Dipropylene Glycol Propyl Ether**             | 29911-27-1     | Solubilizer            | 1 oz              | Enhances the solubility of hydrophobic compounds, improving cleaning power.                    |              |
+| **Lauramine Oxide**                             | 1643-20-5      | Emulsifier             | 1 oz              | A mild surfactant that helps break down oils and enhances foaming action.                      |              |
+| **Tetrasodium EDTA**                            | 64-02-8        | Builder                | 1 oz              | A chelating agent that binds to metal ions, improving the efficacy of surfactants.             |              |
+| **Myristamine Oxide**                           | 3332-27-2      | Emulsifier             | 0.5 oz            | Mild surfactant that supports foaming and aids in emulsifying oils and dirt.                   |              |
+| **Benzyl Benzoate**                             | 120-51-4       | Fragrance              | 0.5 oz            | Adds a pleasant scent and assists in dissolving oily residues.                                 |              |
+| **Sodium Hydroxide**                            | 1310-73-2      | Caustic                | 2 oz              | Alkaline agent that helps break down grease, oils, and other stubborn residues.                |              |
+| **Diethyl Phthalate**                           | 84-66-2        | Fragrance              | 0.5 oz            | Fragrance fixative that enhances the longevity and strength of the scent.                      |              |
+| **Direct Blue 86**                              | 1330-38-7      | Colorant               | 0.1 oz            | Adds a vibrant blue color for visual appeal and product identification.                        |              |
+| **Trisodium NTA**                               | 5064-31-3      | Chelator               | 1 oz              | Chelates calcium and magnesium ions, enhancing detergent performance.                          |              |
+| **Geraniol**                                    | 106-24-1       | Active Ingredient      | 0.5 oz            | Naturally derived fragrance compound with antimicrobial properties.                            |              |
 
 ---
 

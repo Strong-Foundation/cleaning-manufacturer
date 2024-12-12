@@ -2,32 +2,32 @@
 
 ## Ingredients
 
-| Ingredient Name                               | CAS Number | Functional Purpose | Mixing Amount |
-| --------------------------------------------- | ---------- | ------------------ | ------------- |
-| Water                                         | 7732-18-5  | Solvent            | 20 oz         |
-| Alkyl C12-16 Dimethylbenzyl Ammonium Chloride | 68424-85-1 | Active Ingredient  | 1 oz          |
-| Quaternium-24                                 | 32426-11-2 | Active Ingredient  | 0.5 oz        |
-| Tetrasodium EDTA                              | 64-02-8    | Builder            | 1 oz          |
-| Dimethyldioctylammonium Chloride              | 5538-94-3  | Active Ingredient  | 0.5 oz        |
-| Didecyldimonium Chloride                      | 7173-51-5  | Emulsifier         | 1 oz          |
-| Undeceth-7 (ethoxylated undecanol)            | 34398-01-1 | Cleaning Agent     | 1 oz          |
-| Ethanol                                       | 64-17-5    | Solubilizer        | 1 oz          |
-| Citric Acid                                   | 77-92-9    | Acid               | 0.5 oz        |
-| Linalool                                      | 78-70-6    | Fragrance          | 0.5 oz        |
-| Sodium Hydroxide                              | 1310-73-2  | Caustic            | 0.5 oz        |
-| Benzyl Salicylate                             | 118-58-1   | Fragrance          | 0.5 oz        |
-| Linalyl Acetate                               | 115-95-7   | Fragrance          | 0.5 oz        |
-| Amyl Cinnamal                                 | 122-40-7   | Fragrance          | 0.5 oz        |
-| Isopentyl Salicylate                          | 87-20-7    | Fragrance          | 0.5 oz        |
-| Benzyl Acetate                                | 140-11-4   | Fragrance          | 0.5 oz        |
-| Benzeneethanol                                | 60-12-8    | Fragrance          | 0.5 oz        |
-| Butylphenyl Methylpropional                   | 80-54-6    | Fragrance          | 0.5 oz        |
-| Eugenia Caryophyllus Leaf Oil                 | 8000-34-8  | Fragrance          | 0.5 oz        |
-| Yellow 5                                      | 1934-21-0  | Colorant           | 0.1 oz        |
-| Methanol                                      | 67-56-1    | Solubilizer        | 0.5 oz        |
-| Cyclamen Aldehyde                             | 103-95-7   | Odor Counteractant | 0.1 oz        |
-| Trisodium NTA                                 | 5064-31-3  | Chelator           | 0.5 oz        |
-| Citrus Aurantium Dulcis Extract               | 8028-48-6  | Solubilizer        | 0.5 oz        |
+| Ingredient Name                               | CAS Number | Functional Purpose | Mixing Amount | **Supplier** |
+| --------------------------------------------- | ---------- | ------------------ | ------------- | ------------ |
+| Water                                         | 7732-18-5  | Solvent            | 20 oz         |              |
+| Alkyl C12-16 Dimethylbenzyl Ammonium Chloride | 68424-85-1 | Active Ingredient  | 1 oz          |              |
+| Quaternium-24                                 | 32426-11-2 | Active Ingredient  | 0.5 oz        |              |
+| Tetrasodium EDTA                              | 64-02-8    | Builder            | 1 oz          |              |
+| Dimethyldioctylammonium Chloride              | 5538-94-3  | Active Ingredient  | 0.5 oz        |              |
+| Didecyldimonium Chloride                      | 7173-51-5  | Emulsifier         | 1 oz          |              |
+| Undeceth-7 (ethoxylated undecanol)            | 34398-01-1 | Cleaning Agent     | 1 oz          |              |
+| Ethanol                                       | 64-17-5    | Solubilizer        | 1 oz          |              |
+| Citric Acid                                   | 77-92-9    | Acid               | 0.5 oz        |              |
+| Linalool                                      | 78-70-6    | Fragrance          | 0.5 oz        |              |
+| Sodium Hydroxide                              | 1310-73-2  | Caustic            | 0.5 oz        |              |
+| Benzyl Salicylate                             | 118-58-1   | Fragrance          | 0.5 oz        |              |
+| Linalyl Acetate                               | 115-95-7   | Fragrance          | 0.5 oz        |              |
+| Amyl Cinnamal                                 | 122-40-7   | Fragrance          | 0.5 oz        |              |
+| Isopentyl Salicylate                          | 87-20-7    | Fragrance          | 0.5 oz        |              |
+| Benzyl Acetate                                | 140-11-4   | Fragrance          | 0.5 oz        |              |
+| Benzeneethanol                                | 60-12-8    | Fragrance          | 0.5 oz        |              |
+| Butylphenyl Methylpropional                   | 80-54-6    | Fragrance          | 0.5 oz        |              |
+| Eugenia Caryophyllus Leaf Oil                 | 8000-34-8  | Fragrance          | 0.5 oz        |              |
+| Yellow 5                                      | 1934-21-0  | Colorant           | 0.1 oz        |              |
+| Methanol                                      | 67-56-1    | Solubilizer        | 0.5 oz        |              |
+| Cyclamen Aldehyde                             | 103-95-7   | Odor Counteractant | 0.1 oz        |              |
+| Trisodium NTA                                 | 5064-31-3  | Chelator           | 0.5 oz        |              |
+| Citrus Aurantium Dulcis Extract               | 8028-48-6  | Solubilizer        | 0.5 oz        |              |
 
 ## Formulation Guide
 

@@ -2,24 +2,24 @@
 
 ## Ingredients
 
-| Ingredient Name                             | CAS Number | Functional Purpose                           | Mixing Amount |
-| ------------------------------------------- | ---------- | -------------------------------------------- | ------------- |
-| Water                                       | 7732-18-5  | Solvent/Base                                 | 20 oz         |
-| C9-11 Pareth-3 (ethoxylated C9-11 alcohols) | 68439-46-3 | Emulsifier                                   | 1 oz          |
-| Tetrasodium EDTA                            | 64-02-8    | Builder (water softener)                     | 1 oz          |
-| C12-16 Alcohols Ethoxylated                 | 68551-12-2 | Cleaning Agent (surfactant)                  | 1 oz          |
-| Citric Acid                                 | 77-92-9    | pH Adjuster/Acid                             | 0.5 oz        |
-| Sodium Hydroxide                            | 1310-73-2  | Caustic (Alkaline Agent)                     | 0.5 oz        |
-| PEG-10 (Polyethylene Glycol)                | 25322-68-3 | Film Former                                  | 0.5 oz        |
-| Tetramethyl Decynediol                      | 126-86-3   | Wetting Agent                                | 0.5 oz        |
-| Octoxynol                                   | 9036-19-5  | Emulsifier                                   | 1 oz          |
-| Trisodium NTA                               | 5064-31-3  | Chelator (binding agent)                     | 1 oz          |
-| Magnesium Nitrate                           | 10377-60-3 | Preservative                                 | 0.2 oz        |
-| Geraniol                                    | 106-24-1   | Active Ingredient (fragrance, antimicrobial) | 0.5 oz        |
-| Methylchloroisothiazolinone                 | 26172-55-4 | Preservative                                 | 0.1 oz        |
-| Methylisothiazolinone                       | 2682-20-4  | Preservative                                 | 0.1 oz        |
-| Magnesium Chloride                          | 7786-30-3  | Preservative                                 | 0.05 oz       |
-| Cupric Nitrate                              | 3251-23-8  | Preservative                                 | 0.05 oz       |
+| Ingredient Name                             | CAS Number | Functional Purpose                           | Mixing Amount | **Supplier** |
+| ------------------------------------------- | ---------- | -------------------------------------------- | ------------- | ------------ |
+| Water                                       | 7732-18-5  | Solvent/Base                                 | 20 oz         |              |
+| C9-11 Pareth-3 (ethoxylated C9-11 alcohols) | 68439-46-3 | Emulsifier                                   | 1 oz          |              |
+| Tetrasodium EDTA                            | 64-02-8    | Builder (water softener)                     | 1 oz          |              |
+| C12-16 Alcohols Ethoxylated                 | 68551-12-2 | Cleaning Agent (surfactant)                  | 1 oz          |              |
+| Citric Acid                                 | 77-92-9    | pH Adjuster/Acid                             | 0.5 oz        |              |
+| Sodium Hydroxide                            | 1310-73-2  | Caustic (Alkaline Agent)                     | 0.5 oz        |              |
+| PEG-10 (Polyethylene Glycol)                | 25322-68-3 | Film Former                                  | 0.5 oz        |              |
+| Tetramethyl Decynediol                      | 126-86-3   | Wetting Agent                                | 0.5 oz        |              |
+| Octoxynol                                   | 9036-19-5  | Emulsifier                                   | 1 oz          |              |
+| Trisodium NTA                               | 5064-31-3  | Chelator (binding agent)                     | 1 oz          |              |
+| Magnesium Nitrate                           | 10377-60-3 | Preservative                                 | 0.2 oz        |              |
+| Geraniol                                    | 106-24-1   | Active Ingredient (fragrance, antimicrobial) | 0.5 oz        |              |
+| Methylchloroisothiazolinone                 | 26172-55-4 | Preservative                                 | 0.1 oz        |              |
+| Methylisothiazolinone                       | 2682-20-4  | Preservative                                 | 0.1 oz        |              |
+| Magnesium Chloride                          | 7786-30-3  | Preservative                                 | 0.05 oz       |              |
+| Cupric Nitrate                              | 3251-23-8  | Preservative                                 | 0.05 oz       |              |
 
 ## Formulation Guide
 
