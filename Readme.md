@@ -52,6 +52,20 @@ Cleaning Manufacturer is open source because we believe in a cleaner, more affor
 
 At its core, this project is about economic and practical empowerment. Cleaning should never be a privilege—it’s a necessity. By enabling people to manufacture and distribute cleaning products on their own terms, we can all live in cleaner spaces without straining our wallets.
 
+## 🔍 **CAS Lookup for Ingredients**
+
+Want to know more about the chemicals you're using? Check the **Chemical Abstracts Service (CAS)** number for any ingredient. CAS numbers are unique identifiers assigned to chemicals to help ensure safety and compatibility.
+
+You can use the [CAS Lookup Tool](https://webbook.nist.gov/chemistry/cas-ser/) to search for ingredients and get detailed information, including their chemical properties and safety guidelines.
+
+### How to Use:
+
+1. Go to the [CAS Lookup Tool](https://webbook.nist.gov/chemistry/cas-ser/).
+2. Enter the name or formula of a chemical ingredient.
+3. Get detailed information, including its CAS number and safety data.
+
+This feature is especially useful when you want to verify the safety and origin of certain chemicals used in DIY cleaning products.
+
 ## 💬 Join the Discussion on Discord!
 
 Want to share your ideas, ask questions, or connect with others interested in DIY cleaning recipes? Join our Discord community to discuss all things Cleaning Manufacturer:  
